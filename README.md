@@ -1,11 +1,11 @@
-nd summarize the following Articles.
+Read and summarize the following Articles.
 https://www.w3schools.com/js/js_array_methods.asp
 https://www.w3schools.com/js/js_functions.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
 https://www.javascripthelp.org/learn/basics/control-flow-statements/
 https://javascript.info/function-basics
-Add the summary into a seperate file, called README.md
-make sure you use a seperate github repositor to host this.
+Add the summary into a separate file, called README.md
+make sure you use a separate github repository to host this.
 Have a file for each questions. eg. display.js, 
 
 ARRAY METHOD
